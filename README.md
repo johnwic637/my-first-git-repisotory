@@ -5,3 +5,5 @@ Bu Git'e yüklediğim ilk Repository'im. İçerisineGit ile öğrendiğim jargon
 ## git init
 
 Bir proje dosyası ilk defa repository haline getirilecekse kullanılması gereken komuttur.
+
+#Bu bir değişikliktir.
